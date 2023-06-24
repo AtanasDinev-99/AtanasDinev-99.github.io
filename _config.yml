@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Atanas Dinev"
-  avatar           : "atanasdinevpic.jpg"
+  avatar           : "images/atanasdinevpic.jpg"
   bio              : "PhD student at MIT"
   location         : "Location"
   employer         :
