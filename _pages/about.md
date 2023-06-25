@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my webpage! My name is Atanas Dinev and I am frist-year Ph.D. student at the Operations Research Center at MIT where I work with Prof. Thodoris Lykouris. 
+Welcome to my webpage! My name is Atanas Dinev and I am frist-year Ph.D. student at the [Operations Research Center](https://orc.mit.edu) at [MIT](https://www.mit.edu) where I work with [Prof. Thodoris Lykouris](https://mitmgmtfaculty.mit.edu/tlykouris/).  
 
-Prior to joining MIT, I graduated magna cum laude from Princeton University with Bacherlor's degree in Mathematics. While at Princeton, I worked with Prof. Matt Weinberg on projects in Algorithmic Game Theory and Algorithms Under Uncertainty. 
+Prior to joining MIT, I graduated magna cum laude from [Princeton University](https://www.princeton.edu) with Bacherlor's degree in Mathematics. While at Princeton, I worked with [Prof. Matt Weinberg](https://www.cs.princeton.edu/~smattw/) on projects in Algorithmic Game Theory and Algorithms Under Uncertainty. 
 
 
 Papers
