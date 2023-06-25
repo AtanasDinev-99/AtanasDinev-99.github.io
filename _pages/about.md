@@ -10,6 +10,8 @@ redirect_from:
 
 Welcome to my webpage! My name is Atanas Dinev and I am frist-year Ph.D. student at the [Operations Research Center](https://orc.mit.edu) at [MIT](https://www.mit.edu) where I work with [Prof. Thodoris Lykouris](https://mitmgmtfaculty.mit.edu/tlykouris/).  
 
+My research interestes breadly lie in data-driven sequential decision making, online learning, online algorithms, applied probability and their applications to online platforms and online marketplaces. 
+
 Prior to joining MIT, I graduated magna cum laude from [Princeton University](https://www.princeton.edu) with Bacherlor's degree in Mathematics. While at Princeton, I worked with [Prof. Matt Weinberg](https://www.cs.princeton.edu/~smattw/) on projects in Algorithmic Game Theory and Algorithms Under Uncertainty. 
 
 
@@ -21,8 +23,8 @@ Papers
 **Simple and Optimal Online Contention Resolution Schemes for k-uniform matroids** with S. Matthew Weinberg
 - In submission
 
-Talks
-======
+<!-- Talks
+====== -->
 
 
 Teaching Experience
