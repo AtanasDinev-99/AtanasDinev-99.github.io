@@ -15,8 +15,9 @@ Prior to joining MIT, I graduated magna cum laude from [Princeton University](ht
 
 Papers
 ======
-**Tight bounds on 3-team manipulations in Randomized Death Match** with S. Matthew Weinberg
+[**Tight bounds on 3-team manipulations in Randomized Death Match**](https://arxiv.org/abs/2301.07862) with S. Matthew Weinberg
 - 18th Conference on Web and Internet Economics (WINE 22)
+
 **Simple and Optimal Online Contention Resolution Schemes for k-uniform matroids** with S. Matthew Weinberg
 - In submission
 
