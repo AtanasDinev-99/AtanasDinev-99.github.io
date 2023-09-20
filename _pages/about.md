@@ -18,16 +18,25 @@ Papers
 [**Tight bounds on 3-team manipulations in Randomized Death Match**](https://arxiv.org/abs/2301.07862) with S. Matthew Weinberg
 - 18th Conference on Web and Internet Economics (WINE 22)
 
-**Simple and Optimal Online Contention Resolution Schemes for k-uniform matroids** with S. Matthew Weinberg
+[**Simple and Optimal Online Contention Resolution Schemes for k-uniform matroids**](https://arxiv.org/abs/2309.10078) with S. Matthew Weinberg
 - In submission
 
 <!-- Talks
 ====== -->
 
+Talks
+======
+**Bounds on Multi-Team Manipulations in Tournaments**
+- Combinatorics-related Open Problems Seminar (CROPS), Rutgers University
+
 
 Teaching Experience
 ====== 
 **Economics and Computation (COS 445), Spring 2022,  Princeton University**
+
+
+
+
 
 
 <!-- A data-driven personal website
