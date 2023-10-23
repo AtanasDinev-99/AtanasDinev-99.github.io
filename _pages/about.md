@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my webpage! My name is Atanas Dinev and I am second-year Ph.D. student at the [Operations Research Center](https://orc.mit.edu) at [MIT](https://www.mit.edu) where I work with [Prof. Thodoris Lykouris](https://mitmgmtfaculty.mit.edu/tlykouris/). 
+Welcome to my webpage! My name is Atanas Dinev and I am second-year Ph.D. student at the [Operations Research Center](https://orc.mit.edu) at [MIT](https://www.mit.edu) where I am advised by [Prof. Thodoris Lykouris](https://mitmgmtfaculty.mit.edu/tlykouris/). 
 
-I am broadly interested in sequential decision-making, machine learning, applied probability, online algorithms and game theory and their applications. 
+My research interests broadly lie in sequential decision-making, machine learning, applied probability, online algorithms and game theory and their applications. 
 
 Prior to joining MIT, I graduated magna cum laude from [Princeton University](https://www.princeton.edu) with Bacherlor's degree in Mathematics. While at Princeton, I worked with [Prof. Matt Weinberg](https://www.cs.princeton.edu/~smattw/) on projects in Algorithmic Game Theory and Algorithms Under Uncertainty. 
 
@@ -29,7 +29,7 @@ Papers
 Talks
 ======
 **Bounds on Multi-Team Manipulations in Tournaments**
-- Combinatorics-related Open Problems Seminar (CROPS), Rutgers University
+- [Combinatorics-related Open Problems Seminar (CROPS)](https://stoyandimitrov.net/crops.html?fbclid=IwAR2YP_K7E4hu2kpfAjTL5djYg1rxMdIvRWulIRUNWyP__DD8SPd28OZXXb8), Rutgers University, September 2022
 
 
 Teaching Experience
