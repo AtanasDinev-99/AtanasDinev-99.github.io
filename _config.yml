@@ -86,7 +86,7 @@ author:
   location         : # "Cambridge, Massachusetts"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://www.princeton.edu"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         : "https://www.princeton.edu" 
   foursquare       : 
-  github           : # "https://github.com/AtanasDinev-99"
+  github           : "https://www.princeton.edu"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : "https://www.princeton.edu"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/atanasdinev99"
+  linkedin         : "https://www.princeton.edu"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
