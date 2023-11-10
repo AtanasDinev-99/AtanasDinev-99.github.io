@@ -18,10 +18,10 @@ Prior to joining MIT, I graduated magna cum laude from [Princeton University](ht
 Papers
 ======
 [**Tight bounds on 3-team manipulations in Randomized Death Match**](https://arxiv.org/abs/2301.07862) with S. Matthew Weinberg
-- 18th Conference on Web and Internet Economics (WINE 22)
+- 18th Conference on Web and Internet Economics (WINE 2022)
 
 [**Simple and Optimal Online Contention Resolution Schemes for k-uniform matroids**](https://arxiv.org/abs/2309.10078) with S. Matthew Weinberg
-- In submission
+- 15th Innovations in Theoretical Computer Science (ITCS 2024)
 
 <!-- Talks
 ====== -->
