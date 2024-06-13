@@ -19,7 +19,7 @@ Papers
 ======
 [**Social Learning with Bounded Rationality: Negative Reviews Persist under Newest First**](https://arxiv.org/abs/2406.06929) \\
 with Jackie Baek and Thodoris Lykouris
-- An extended abstract was accepted for presentation at the 25th ACM Conference on Economics and Computation (EC 2024)
+- 25th ACM Conference on Economics and Computation (EC 2024)
 - INFORMS Manufacturing and Service Operations Management Conference (MSOM 2024)
 - INFORMS Revenue Management and Pricing Section Conference (RMP 2024)
 
@@ -33,6 +33,12 @@ with S. Matthew Weinberg
 - 18th Conference on Web and Internet Economics (WINE 2022)
 
 
+Teaching Experience
+====== 
+**The Analytics Edge (15.071), Spring 2024,  Massachusetts Institute of Technology, Head Teaching Assistant**
+
+**Economics and Computation (COS 445), Spring 2022,  Princeton University**
+
 
 Talks
 ======
@@ -40,11 +46,7 @@ Talks
 - [Combinatorics-related Open Problems Seminar (CROPS)](https://stoyandimitrov.net/crops.html?fbclid=IwAR2YP_K7E4hu2kpfAjTL5djYg1rxMdIvRWulIRUNWyP__DD8SPd28OZXXb8), Rutgers University, September 2022
 
 
-Teaching Experience
-====== 
-**The Analytics Edge (15.071), Spring 2024,  Massachusetts Institute of Technology, Head Teaching Assistant**
 
-**Economics and Computation (COS 445), Spring 2022,  Princeton University**
 
 
 
