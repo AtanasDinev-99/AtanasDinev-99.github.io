@@ -17,14 +17,22 @@ Prior to joining MIT, I graduated magna cum laude from [Princeton University](ht
 
 Papers
 ======
-[**Tight bounds on 3-team manipulations in Randomized Death Match**](https://arxiv.org/abs/2301.07862) with S. Matthew Weinberg
-- 18th Conference on Web and Internet Economics (WINE 2022)
+[**Social Learning with Bounded Rationality: Negative Reviews Persist under Newest First**](https://arxiv.org/abs/2406.06929) \\
+with Jackie Baek and Thodoris Lykouris
+- An extended abstract was accepted for presentation at the 25th ACM Conference on Economics and Computation (EC 2024)
+- INFORMS Manufacturing and Service Operations Management Conference (MSOM 2024)
+- INFORMS Revenue Management and Pricing Section Conference (RMP 2024)
 
-[**Simple and Optimal Online Contention Resolution Schemes for k-uniform matroids**](https://arxiv.org/abs/2309.10078) with S. Matthew Weinberg
+
+[**Simple and Optimal Online Contention Resolution Schemes for k-uniform matroids**](https://arxiv.org/abs/2309.10078) \\
+with S. Matthew Weinberg
 - 15th Innovations in Theoretical Computer Science (ITCS 2024)
 
-<!-- Talks
-====== -->
+[**Tight bounds on 3-team manipulations in Randomized Death Match**](https://arxiv.org/abs/2301.07862) \\
+with S. Matthew Weinberg
+- 18th Conference on Web and Internet Economics (WINE 2022)
+
+
 
 Talks
 ======
@@ -34,6 +42,8 @@ Talks
 
 Teaching Experience
 ====== 
+**The Analytics Edge (15.071), Spring 2024,  Massachusetts Institute of Technology, Head Teaching Assistant**
+
 **Economics and Computation (COS 445), Spring 2022,  Princeton University**
 
 
