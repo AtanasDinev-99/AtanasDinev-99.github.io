@@ -15,7 +15,7 @@ My research interests broadly lie in sequential decision-making, machine learnin
 Prior to joining MIT, I graduated magna cum laude from [Princeton University](https://www.princeton.edu) with Bacherlor's degree in Mathematics. While at Princeton, I worked with [Prof. Matt Weinberg](https://www.cs.princeton.edu/~smattw/) on projects in Algorithmic Game Theory and Algorithms Under Uncertainty. Here is my [CV](https://atanasdinev-99.github.io./pdf/Dinev_Resume.pdf) 
 
 
-Papers
+Publications
 ======
 [**Social Learning with Bounded Rationality: Negative Reviews Persist under Newest First**](https://arxiv.org/abs/2406.06929) \\
 with Jackie Baek and Thodoris Lykouris
@@ -40,10 +40,10 @@ Teaching Experience
 **Economics and Computation (COS 445), Spring 2022,  Princeton University**
 
 
-Talks
+<!-- Talks
 ======
 **Bounds on Multi-Team Manipulations in Tournaments**
-- [Combinatorics-related Open Problems Seminar (CROPS)](https://stoyandimitrov.net/crops.html?fbclid=IwAR2YP_K7E4hu2kpfAjTL5djYg1rxMdIvRWulIRUNWyP__DD8SPd28OZXXb8), Rutgers University, September 2022
+- [Combinatorics-related Open Problems Seminar (CROPS)](https://stoyandimitrov.net/crops.html?fbclid=IwAR2YP_K7E4hu2kpfAjTL5djYg1rxMdIvRWulIRUNWyP__DD8SPd28OZXXb8), Rutgers University, September 2022 -->
 
 
 
