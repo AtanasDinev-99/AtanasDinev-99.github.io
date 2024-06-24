@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my webpage! My name is Atanas Dinev and I am second-year Ph.D. student at the [Operations Research Center](https://orc.mit.edu) at [MIT](https://www.mit.edu) where I am advised by [Prof. Thodoris Lykouris](https://mitmgmtfaculty.mit.edu/tlykouris/). 
 
-My research interests broadly lie in sequential decision-making, machine learning, online algorithms, game theory and their applications in online platforms and online marketplaces. I am also generally interested in applied mathematical modelling. 
+My research interests broadly lie in sequential decision-making, machine learning, online algorithms, game theory and their applications to online marketplaces and platforms. I am also generally interested in revenue management and applied modelling. 
 
 Prior to joining MIT, I graduated magna cum laude from [Princeton University](https://www.princeton.edu) with Bacherlor's degree in Mathematics. While at Princeton, I worked with [Prof. Matt Weinberg](https://www.cs.princeton.edu/~smattw/) on projects in Algorithmic Game Theory and Algorithms Under Uncertainty. Here is my [CV](https://atanasdinev-99.github.io./pdf/Dinev_Resume.pdf) 
 
