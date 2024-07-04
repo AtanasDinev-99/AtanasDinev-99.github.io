@@ -26,7 +26,7 @@ with Jackie Baek and Thodoris Lykouris
 
 [**Simple and Optimal Online Contention Resolution Schemes for k-uniform matroids**](https://arxiv.org/abs/2309.10078) \\
 with S. Matthew Weinberg
-- 15th Innovations in Theoretical Computer Science (ITCS 2024)
+- 15th Innovations in Theoretical Computer Science Conference (ITCS 2024)
 
 [**Tight bounds on 3-team manipulations in Randomized Death Match**](https://arxiv.org/abs/2301.07862) \\
 with S. Matthew Weinberg
