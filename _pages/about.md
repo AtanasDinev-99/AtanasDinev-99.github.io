@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my webpage! My name is Atanas Dinev and I am second-year Ph.D. student at the [Operations Research Center](https://orc.mit.edu) at [MIT](https://www.mit.edu) where I am advised by [Prof. Thodoris Lykouris](https://mitmgmtfaculty.mit.edu/tlykouris/). 
+Welcome to my webpage! My name is Atanas Dinev and I am third-year Ph.D. student at the [Operations Research Center](https://orc.mit.edu) at [MIT](https://www.mit.edu) where I am advised by [Prof. Thodoris Lykouris](https://mitmgmtfaculty.mit.edu/tlykouris/). 
 
 My research interests broadly lie in sequential decision-making, machine learning, online algorithms, game theory and their applications to online marketplaces and platforms. I am also generally interested in revenue management and applied modelling. 
 
@@ -18,7 +18,8 @@ Prior to joining MIT, I graduated magna cum laude from [Princeton University](ht
 Publications
 ======
 [**Social Learning with Bounded Rationality: Negative Reviews Persist under Newest First**](https://arxiv.org/abs/2406.06929) \\
-with Jackie Baek and Thodoris Lykouris
+with Jackie Baek and Thodoris Lykouris \\
+Submitted to Operations Research
 - 25th ACM Conference on Economics and Computation (EC 2024)
 - INFORMS Manufacturing and Service Operations Management Conference (MSOM 2024)
 - INFORMS Revenue Management and Pricing Section Conference (RMP 2024)
@@ -35,6 +36,8 @@ with S. Matthew Weinberg
 
 Teaching Experience
 ====== 
+**Data, Models, and Decisions (15.060), Fall 2024,  Massachusetts Institute of Technology, Teaching Assistant**
+
 **The Analytics Edge (15.071), Spring 2024,  Massachusetts Institute of Technology, Head Teaching Assistant**
 
 **Economics and Computation (COS 445), Spring 2022,  Princeton University**
