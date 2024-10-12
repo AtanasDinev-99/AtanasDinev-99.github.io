@@ -36,11 +36,11 @@ with S. Matthew Weinberg
 
 Teaching Experience
 ====== 
-**Data, Models, and Decisions (15.060), Fall 2024,  Massachusetts Institute of Technology, Teaching Assistant**
+**Data, Models, and Decisions (15.060), Graduate (MBA Core), Fall 2024,  MIT, Teaching Assistant** 
 
-**The Analytics Edge (15.071), Spring 2024,  Massachusetts Institute of Technology, Head Teaching Assistant**
+**The Analytics Edge (15.071), Graduate (MBA), Spring 2024,  MIT, Head Teaching Assistant** 
 
-**Economics and Computation (COS 445), Spring 2022,  Princeton University**
+**Economics and Computation (COS 445), Undergraduate, Spring 2022,  Princeton University** 
 
 
 <!-- Talks
