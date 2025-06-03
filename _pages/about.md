@@ -19,9 +19,9 @@ Publications
 ======
 [**Social Learning with Bounded Rationality: Negative Reviews Persist under Newest First**](https://arxiv.org/abs/2406.06929) \\
 with Jackie Baek and Thodoris Lykouris \\
-Submitted to Operations Research
+Major Revision Operations Research
 - 25th ACM Conference on Economics and Computation (EC 2024)
-- INFORMS Manufacturing and Service Operations Management Conference (MSOM 2024)
+- INFORMS Manufacturing and Service Operations Management Conference SIG Dat (MSOM SIG 2025)
 - INFORMS Revenue Management and Pricing Section Conference (RMP 2024)
 
 
