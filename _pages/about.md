@@ -34,15 +34,6 @@ with S. Matthew Weinberg
 - 18th Conference on Web and Internet Economics (WINE 2022)
 
 
-Teaching Experience
-====== 
-**Data, Models, and Decisions (15.060), Graduate (MBA Core), Fall 2024,  MIT, Teaching Assistant** 
-
-**The Analytics Edge (15.071), Graduate (MBA), Spring 2024,  MIT, Head Teaching Assistant** 
-
-**Economics and Computation (COS 445), Undergraduate, Spring 2022,  Princeton University** 
-
-
 Talks
 ======
 **Social Learning with Limited Attention: Negative Reviews Persist under Newest First**
@@ -59,6 +50,17 @@ Talks
 **Tight bounds on 3-team manipulations in Randomized Death Match**
 - 18th Conference on Web and Internet Economics (WINE 2022)
 - [Combinatorics-related Open Problems Seminar (CROPS)](https://stoyandimitrov.net/crops.html?fbclid=IwAR2YP_K7E4hu2kpfAjTL5djYg1rxMdIvRWulIRUNWyP__DD8SPd28OZXXb8), Rutgers University, September 2022
+
+
+Teaching Experience
+====== 
+**Data, Models, and Decisions (15.060), Graduate (MBA Core), Fall 2024,  MIT, Teaching Assistant** 
+
+**The Analytics Edge (15.071), Graduate (MBA), Spring 2024,  MIT, Head Teaching Assistant** 
+
+**Economics and Computation (COS 445), Undergraduate, Spring 2022,  Princeton University** 
+
+
 
 Academic Serivce
 ======
