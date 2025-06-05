@@ -43,10 +43,27 @@ Teaching Experience
 **Economics and Computation (COS 445), Undergraduate, Spring 2022,  Princeton University** 
 
 
-<!-- Talks
+Talks
 ======
-**Bounds on Multi-Team Manipulations in Tournaments**
-- [Combinatorics-related Open Problems Seminar (CROPS)](https://stoyandimitrov.net/crops.html?fbclid=IwAR2YP_K7E4hu2kpfAjTL5djYg1rxMdIvRWulIRUNWyP__DD8SPd28OZXXb8), Rutgers University, September 2022 -->
+**Social Learning with Limited Attention: Negative Reviews Persist under Newest First**
+- INFORMS Manufacturing and Service Operations Management Conference SIG Day (MSOM SIG 2025)
+- Marketplace Innovation Workshop (MIW 2025)
+- INFORMS Annual Meeting in Seattle, WA (INFORMS 2024)
+- INFORMS Revenue Management and Pricing Section Conference (RMP 2024)
+- 25th ACM Conference on Economics and Computation (EC 2024)
+- INFORMS Manufacturing and Service Operations Management Conference (MSOM 2024)
+
+**Simple and Optimal Online Contention Resolution Schemes for k-uniform matroids**
+- 15th Innovations in Theoretical Computer Science Conference, Berkeley (ITCS 2024)
+
+**Tight bounds on 3-team manipulations in Randomized Death Match**
+- 18th Conference on Web and Internet Economics (WINE 2022)
+- [Combinatorics-related Open Problems Seminar (CROPS)](https://stoyandimitrov.net/crops.html?fbclid=IwAR2YP_K7E4hu2kpfAjTL5djYg1rxMdIvRWulIRUNWyP__DD8SPd28OZXXb8), Rutgers University, September 2022
+
+Academic Serivce
+======
+**Seminar Coordinator, MIT Operations Research Center Seminar Spring 2025**
+**Reviewer for ICML 2025**
 
 
 
