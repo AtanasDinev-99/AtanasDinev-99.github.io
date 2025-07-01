@@ -12,7 +12,7 @@ Welcome to my webpage! My name is Atanas Dinev and I am third-year Ph.D. student
 
 My research interests broadly lie in sequential decision-making, machine learning, online algorithms, game theory and their applications to online marketplaces and platforms. I am also generally interested in revenue management and applied modelling. 
 
-Prior to joining MIT, I graduated magna cum laude from [Princeton University](https://www.princeton.edu) with Bacherlor's degree in Mathematics. While at Princeton, I worked with [Prof. Matt Weinberg](https://www.cs.princeton.edu/~smattw/) on projects in Algorithmic Game Theory and Algorithms Under Uncertainty. Here is my [CV](https://AtanasDinev-99.github.io/pdf/Atanas_Dinev_Resume.pdf). 
+Prior to joining MIT, I graduated magna cum laude from [Princeton University](https://www.princeton.edu) with Bacherlor's degree in Mathematics. While at Princeton, I worked with [Prof. Matt Weinberg](https://www.cs.princeton.edu/~smattw/) on projects in Algorithmic Game Theory and Algorithms Under Uncertainty. Here is my [CV](https://AtanasDinev-99.github.io/files/Atanas_Dinev_Resume.pdf). 
 
 In my free time, I enjoy playing table tennis, basketball, and running outdoors. 
 
