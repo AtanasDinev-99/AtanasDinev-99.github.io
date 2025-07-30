@@ -245,11 +245,6 @@ defaults:
       author_profile: true
       share: true
 
-  -
-    scope:
-      path: ""
-    values:
-      custom_css: "custom.css"
       
 
 # Sass/SCSS
