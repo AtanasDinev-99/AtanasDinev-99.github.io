@@ -1,3 +1,7 @@
+body {
+  background-color: pink !important;
+}
+
 /* Custom footer styling */
 .page__footer {
   padding: 0.5rem 1rem;
