@@ -244,8 +244,9 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-      
-  - scope:
+
+  -
+    scope:
       path: ""
     values:
       custom_css: "custom.css"
