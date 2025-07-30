@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
 ======
 [**Social Learning with Limited Attention: Negative Reviews Persist under Newest First**](https://arxiv.org/abs/2406.06929) \\
 with Jackie Baek and Thodoris Lykouris \\
