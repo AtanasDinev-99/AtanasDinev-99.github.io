@@ -116,9 +116,6 @@ author:
   youtube          :
   wikipedia        :
 
-footer:
-  custom: "© 2025 Atanas Dinev. Built with Jekyll."
-
 
 # Reading Files
 include:
