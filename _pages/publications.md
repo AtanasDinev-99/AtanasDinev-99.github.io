@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-======
+
 [**Social Learning with Limited Attention: Negative Reviews Persist under Newest First**](https://arxiv.org/abs/2406.06929) \\
 with Jackie Baek and Thodoris Lykouris \\
 Major Revision Operations Research
