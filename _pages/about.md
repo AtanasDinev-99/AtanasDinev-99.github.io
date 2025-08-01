@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my webpage! My name is Atanas Dinev and I am third-year Ph.D. student at the [Operations Research Center](https://orc.mit.edu) at [MIT](https://www.mit.edu) where I am advised by [Prof. Thodoris Lykouris](https://mitmgmtfaculty.mit.edu/tlykouris/). 
+Welcome to my webpage! My name is Atanas Dinev and I am fourth-year Ph.D. student at the [Operations Research Center](https://orc.mit.edu) at [MIT](https://www.mit.edu) where I am advised by [Prof. Thodoris Lykouris](https://mitmgmtfaculty.mit.edu/tlykouris/). 
 
 My research interests broadly lie in sequential decision-making, machine learning, online algorithms, game theory and their applications to online marketplaces and platforms. I am also generally interested in revenue management and applied probability. 
 
