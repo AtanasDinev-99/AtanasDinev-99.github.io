@@ -11,11 +11,11 @@ author_profile: true
 - Marketplace Innovation Workshop (MIW 2025)
 - INFORMS Annual Meeting in Seattle, WA (INFORMS 2024)
 - INFORMS Revenue Management and Pricing Section Conference (RMP 2024)
-- 25th ACM Conference on Economics and Computation (EC 2024). [Link](https://www.youtube.com/watch?v=ef1NZy4GDA8) to talk. 
+- 25th ACM Conference on Economics and Computation (EC 2024). <!--[Link](https://www.youtube.com/watch?v=ef1NZy4GDA8) to talk. -->
 - INFORMS Manufacturing and Service Operations Management Conference (MSOM 2024)
 
 **Simple and Optimal Online Contention Resolution Schemes for k-uniform matroids**
-- 15th Innovations in Theoretical Computer Science Conference, Berkeley (ITCS 2024). [Link](https://www.youtube.com/watch?v=DQyUA_Yc3D8) to talk. 
+- 15th Innovations in Theoretical Computer Science Conference, Berkeley (ITCS 2024). <!--[Link](https://www.youtube.com/watch?v=DQyUA_Yc3D8) to talk. -->
 
 **Tight bounds on 3-team manipulations in Randomized Death Match**
 - 18th Conference on Web and Internet Economics (WINE 2022)
