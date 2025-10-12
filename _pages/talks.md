@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 
-**Social Learning with Limited Attention: Negative Reviews Persist under Newest First**
+**Social Learning with Limited Attention: Negative Reviews Persist under Newest First** 
 - INFORMS Manufacturing and Service Operations Management Conference SIG Day (MSOM SIG 2025)
 - Marketplace Innovation Workshop (MIW 2025)
 - INFORMS Annual Meeting in Seattle, WA (INFORMS 2024)
 - INFORMS Revenue Management and Pricing Section Conference (RMP 2024)
-- 25th ACM Conference on Economics and Computation (EC 2024)
+- 25th ACM Conference on Economics and Computation (EC 2024). [Link](https://www.youtube.com/watch?v=ef1NZy4GDA8) to talk. 
 - INFORMS Manufacturing and Service Operations Management Conference (MSOM 2024)
 
 **Simple and Optimal Online Contention Resolution Schemes for k-uniform matroids**
