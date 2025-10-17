@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: ""
+# title: ""
 permalink: /publications/
 author_profile: true
 ---
 
 <h2 style="font-size:28px;">Working Papers</h2>
 **Optimal Exploration of New Products under Assortment Decisions**\\
-with Jackie Baek and Thodoris Lykouris \\
+with Jackie Baek and Thodoris Lykouris 
 
 
 <h2 style="font-size:28px;">Publications</h2>
