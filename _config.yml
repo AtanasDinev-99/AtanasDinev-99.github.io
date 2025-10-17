@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Atanas Dinev"
   avatar           : "websitephoto.png"
-  bio              : "PhD student at MIT"
+  bio              : "PhD student at MIT<br>Emal: adinev (at) mit (dot) edu"
   location         : # "Cambridge, Massachusetts"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : #"https://www.princeton.edu"
-  email            : "adinev (at) mit (dot) edu"
+  email            : # "adinev (at) mit (dot) edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
