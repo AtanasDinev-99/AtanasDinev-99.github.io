@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Atanas Dinev"
   avatar           : "websitephoto.png"
-  bio              : "<strong style="font-size: 3em;">Ph.D. student at MIT<br>adinev (at) mit (dot) edu </strong>"
+  bio              : "### Ph.D. student at MIT<br>adinev (at) mit (dot) edu"
   location         : # "Cambridge, Massachusetts"
   employer         : 
   pubmed           : 
