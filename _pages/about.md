@@ -14,7 +14,7 @@ My research interests broadly lie in sequential decision-making, machine learnin
 
 Prior to joining MIT, I graduated magna cum laude from [Princeton University](https://www.princeton.edu) with Bachelor's degree in Mathematics. While at Princeton, I worked with [Prof. Matt Weinberg](https://www.cs.princeton.edu/~smattw/) on projects in Algorithmic Game Theory and Algorithms Under Uncertainty. 
 
-Beyond research, I enjoy playing table tennis, pick-up basketball games, and going for outdoor runs. 
+Beyond academics, I enjoy playing table tennis, pick-up basketball games, and going for outdoor runs. 
 
 <!-- Publications
 ======
