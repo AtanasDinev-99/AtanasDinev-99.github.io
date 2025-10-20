@@ -1,6 +1,6 @@
 ---
 layout: archive
-# title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -14,8 +14,8 @@ with Jackie Baek and Thodoris Lykouris
 [**Social Learning with Limited Attention: Negative Reviews Persist under Newest First**](https://arxiv.org/abs/2406.06929) \\
 with Jackie Baek and Thodoris Lykouris \\
 Major Revision Operations Research
-- Finalist in the 2025 INFORMS Junior Faculty Interest Group (JFIG) Paper Competition. 
 - 25th ACM Conference on Economics and Computation (EC 2024)
+- Finalist in the 2025 INFORMS Junior Faculty Interest Group (JFIG) Paper Competition. 
 - INFORMS Manufacturing and Service Operations Management Conference SIG Day (MSOM SIG 2025)
 - INFORMS Revenue Management and Pricing Section Conference (RMP 2024)
 

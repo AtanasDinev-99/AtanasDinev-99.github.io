@@ -4,6 +4,8 @@ title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
+**Optimal Exploration of New Products under Assortment Decisions**
+-– Conference on Digital Experimentation @ MIT (CODE@MIT 2025)
 
 
 **Social Learning with Limited Attention: Negative Reviews Persist under Newest First** 
