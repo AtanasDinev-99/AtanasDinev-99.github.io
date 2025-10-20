@@ -1,16 +1,16 @@
 ---
 layout: archive
-title: "Publications"
+# title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-<!-- <h2 style="font-size:28px;">Working Papers</h2>
+<h2 style="font-size:28px;">Working Papers</h2>
 **Optimal Exploration of New Products under Assortment Decisions**\\
-with Jackie Baek and Thodoris Lykouris  -->
+with Jackie Baek and Thodoris Lykouris 
 
 
-<!-- <h2 style="font-size:28px;">Publications</h2> -->
+<h2 style="font-size:28px;">Publications</h2>
 [**Social Learning with Limited Attention: Negative Reviews Persist under Newest First**](https://arxiv.org/abs/2406.06929) \\
 with Jackie Baek and Thodoris Lykouris \\
 Major Revision Operations Research
