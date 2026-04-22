@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+[**Optimal Exploration of New Products under Assortment Decisions**](http://arxiv.org/abs/2604.18800) \\
+with Jackie Baek and Thodoris Lykouris \\
+- Econometric Society Interdisciplinary Frontiers (ESIF) conference on Economics and AI+ML 2026 (ESIFAIML 2026)
+- 2025 Conference on Digital Experimentation @ MIT (CODE@MIT 2025)
+
+
+
 <!-- <h2 style="font-size:28px;">Publications</h2> -->
 [**Social Learning with Limited Attention: Negative Reviews Persist under Newest First**](https://arxiv.org/abs/2406.06929) \\
 with Jackie Baek and Thodoris Lykouris \\
