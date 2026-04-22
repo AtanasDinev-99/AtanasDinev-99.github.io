@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 [**Optimal Exploration of New Products under Assortment Decisions**](http://arxiv.org/abs/2604.18800) \\
-with Jackie Baek and Thodoris Lykouris \\
+with Jackie Baek and Thodoris Lykouris 
 - Econometric Society Interdisciplinary Frontiers (ESIF) conference on Economics and AI+ML 2026 (ESIFAIML 2026)
 - 2025 Conference on Digital Experimentation @ MIT (CODE@MIT 2025)
 
