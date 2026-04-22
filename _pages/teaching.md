@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+**Theory of Operations Management (15.764), Graduate (PhD), Spring 2026,  MIT, Teaching Assistant** 
 
 **Data, Models, and Decisions (15.060), Graduate (MBA Core), Fall 2024,  MIT, Teaching Assistant** 
 
