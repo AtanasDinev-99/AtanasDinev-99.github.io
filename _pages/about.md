@@ -14,7 +14,9 @@ My research interests broadly lie in sequential decision-making, machine learnin
 
 Prior to joining MIT, I graduated magna cum laude from [Princeton University](https://www.princeton.edu) with a Bachelor's degree in Mathematics. While at Princeton, I worked with [Prof. Matt Weinberg](https://www.cs.princeton.edu/~smattw/) on projects in Algorithmic Game Theory and Algorithms Under Uncertainty. 
 
-Beyond academics, I enjoy playing table tennis, pick-up basketball games, and going for outdoor runs. 
+I have worked as a quantitative research intern at Two Sigma Investments (Summer 2026) and as a quantitative trading intern at Citadel Securities (Summer 2021), where I worked on machine learning and data science projects applied to financial markets. 
+
+<!-- Beyond academics, I enjoy playing table tennis, pick-up basketball games, and going for outdoor runs. -->
 
 <!-- Publications
 ======
