@@ -86,7 +86,7 @@ author:
   location         : 
   employer         : 
   pubmed           : 
-  googlescholar    : https://scholar.google.com/citations?user=SzRk3ZQAAAAJ&hl=en
+  googlescholar    : # https://scholar.google.com/citations?user=SzRk3ZQAAAAJ&hl=en
   email            : 
   researchgate     :  
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "atanasdinev99"
+  linkedin         : # "atanasdinev99"
   orcid            : 
   pinterest        :
   soundcloud       :
