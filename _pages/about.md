@@ -16,7 +16,7 @@ Prior to joining MIT, I graduated magna cum laude from [Princeton University](ht
 I have worked as a quantitative research intern at Two Sigma Investments (Summer 2026) and at Citadel Securities (Summer 2021), where I worked on machine learning and data science projects applied to financial markets. 
 
 **Email:** adinev (at) mit (dot) edu<br>
-[[Google Scholar]](https://scholar.google.com/citations?user=SzRk3ZQAAAAJ&hl=en)      [[LinkedIn]](https://www.linkedin.com/in/atanasdinev99/)
+[\[Google Scholar\]](https://scholar.google.com/citations?user=SzRk3ZQAAAAJ&hl=en) &nbsp;&nbsp;&nbsp;&nbsp; [\[LinkedIn\]](https://www.linkedin.com/in/atanasdinev99/)
 
 
 <!-- Beyond academics, I enjoy playing table tennis, pick-up basketball games, and going for outdoor runs. -->
