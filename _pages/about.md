@@ -13,7 +13,7 @@ Welcome to my webpage! My name is Atanas Dinev and I am fourth-year Ph.D. studen
 My research interests broadly lie in sequential decision-making, machine learning, online algorithms, game theory and their applications to online marketplaces and platforms. I am also generally interested in applied probability and revenue management. 
 
 Prior to joining MIT, I graduated magna cum laude from [Princeton University](https://www.princeton.edu) with a Bachelor's degree in Mathematics. While at Princeton, I worked with [Prof. Matt Weinberg](https://www.cs.princeton.edu/~smattw/) on projects in Algorithmic Game Theory and Algorithms Under Uncertainty. 
-I have worked as a quantitative research intern at Two Sigma Investments (Summer 2026) and at Citadel Securities (Summer 2021), where I worked on machine learning and data science projects applied to financial markets. 
+
 
 **Email:** adinev (at) mit (dot) edu<br>
 [\[Google Scholar\]](https://scholar.google.com/citations?user=SzRk3ZQAAAAJ&hl=en) &nbsp;&nbsp;&nbsp;&nbsp; [\[LinkedIn\]](https://www.linkedin.com/in/atanasdinev99/)
