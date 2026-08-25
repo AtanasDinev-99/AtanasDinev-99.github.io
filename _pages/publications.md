@@ -9,6 +9,8 @@ author_profile: true
 with Jackie Baek and Thodoris Lykouris 
 - Econometric Society Interdisciplinary Frontiers (ESIF) conference on Economics and AI+ML 2026 (ESIF AIML 2026)
 - 2025 Conference on Digital Experimentation @ MIT (CODE@MIT 2025)
+- INFORMS Revenue Management and Pricing Section Conference (RMP 2026)
+
 
 
 

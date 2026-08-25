@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 **Optimal Exploration of New Products under Assortment Decisions** 
+- INFORMS Annual Meeting in San Fransisco, CA (INFORMS 2026)
 - 2025 Conference on Digital Experimentation @ MIT (CODE@MIT 2025)
 
 **Social Learning with Limited Attention: Negative Reviews Persist under Newest First** 
