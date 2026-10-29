@@ -5,12 +5,19 @@ permalink: /teaching/
 author_profile: true
 ---
 
-**Theory of Operations Management (15.764), Graduate (PhD), Spring 2026,  MIT, Teaching Assistant\\
-Instructor: Nikos Trichaskis** 
+**Theory of Operations Management (15.764)**<br />
+Teaching Assistant · MIT · Spring 2026 · PhD<br />
+Instructor: Nikos Trichakis
 
-**Data, Models, and Decisions (15.060), Graduate (MBA Core), Fall 2024,  MIT, Teaching Assistant** 
+**Data, Models, and Decisions (15.060)**<br />
+Teaching Assistant · MIT · Fall 2024 · MBA core<br />
+Instructor: [Instructor name]
 
-**The Analytics Edge (15.071), Graduate (MBA), Spring 2024,  MIT, Head Teaching Assistant, Instructors: Swati Gupta and Rob Freund** 
+**The Analytics Edge (15.071)**<br />
+Head Teaching Assistant · MIT · Spring 2024 · MBA<br />
+Instructors: Swati Gupta and Rob Freund
 
-**Economics and Computation (COS 445), Undergraduate, Spring 2022,  Princeton University, Instructor: S. Matthew Weinberg** 
+**Economics and Computation (COS 445)**<br />
+[Your role] · Princeton University · Spring 2022 · Undergraduate<br />
+Instructor: S. Matthew Weinberg
 
