@@ -21,4 +21,4 @@ author_profile: true
 
 **Tight bounds on 3-team manipulations in Randomized Death Match**
 - 18th Conference on Web and Internet Economics (WINE 2022)
-- [Combinatorics-related Open Problems Seminar (CROPS)](https://stoyandimitrov.net/crops.html?fbclid=IwAR2YP_K7E4hu2kpfAjTL5djYg1rxMdIvRWulIRUNWyP__DD8SPd28OZXXb8), Rutgers University, September 2022
+- Combinatorics-related Open Problems Seminar (CROPS), Rutgers University, September 2022
