@@ -11,6 +11,8 @@ Major Revision at Management Science
 - Econometric Society Interdisciplinary Frontiers (ESIF) conference on Economics and AI+ML 2026 (ESIF AIML 2026)
 - 2025 Conference on Digital Experimentation @ MIT (CODE@MIT 2025)
 - INFORMS Revenue Management and Pricing Section Conference (RMP 2026)
+- 62nd Allerton Conference on Communication, Control, and Computing (Allerton 2026)
+
 
 
 
@@ -20,7 +22,7 @@ Major Revision at Management Science
 with Jackie Baek and Thodoris Lykouris \\
 Major Revision at Operations Research
 - 25th ACM Conference on Economics and Computation (EC 2024)
-- Finalist in the 2025 INFORMS Junior Faculty Interest Group (JFIG) Paper Competition. 
+- Second Place in the 2025 INFORMS Junior Faculty Interest Group (JFIG) Paper Competition. 
 - INFORMS Manufacturing and Service Operations Management Conference SIG Day (MSOM SIG 2025)
 - INFORMS Revenue Management and Pricing Section Conference (RMP 2024)
 
